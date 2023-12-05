@@ -1,0 +1,30 @@
+body {
+    background-image: url(../img/forest.jpg);
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+   color: antiquewhite;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: larger;
+}
+
+h5 {
+    color: black;
+}
+
+a{
+    color: lightcoral;
+    text-decoration: underline; none;
+}
+
+#special {
+    color: lightcoral;
+}
+
+h1{
+    color: darkred;
+}
+
+h2{
+    color: darkred;
+}
